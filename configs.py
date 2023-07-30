@@ -1,0 +1,3 @@
+TOKEN_openAI = "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"
+TOKEN_bot = "6042419064:AAHuSTh6golk3CrukJfTFrNmOoR0mOkH4k0"
+TOKEN_weather = 'eb8269f63e5bee7531ddcc348bac701f'
